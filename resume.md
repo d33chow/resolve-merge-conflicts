@@ -2,7 +2,7 @@
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Experience
+## Job History
 
 ### GitHub Trainer
 
@@ -14,7 +14,7 @@ Provide world class support to customers on the GitHub platform
 
 ## Skills
 
-productivity
+Having skillsers
 
 ### Education
 
